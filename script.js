@@ -101,7 +101,7 @@ btn2.addEventListener('mouseover',function(){
 list1 = ['Hmm? Hello Mahal ko ❤😊😍','HAPPYYYYY BIRTHDAY MAHAL KO!']
 list2a = ['SORRY','I AM SORRY 🥲']
 list2 = ['Maikli lang tong message ko sayo, siguro hahaha 🤣','Kaya sana basahin mo till the end 😒','May sasabihin lang ako sayo','Kaya siguro maikli lang ito 😄','Kase lagi ko naman sinasabi sayo ang maraming bagay','Mahal na mahal na mahal kita!! 😊😍','Thank you, Unang una. Unang hirit Charizzz langs hahaha 🤣','Sa pag stay up until now. I know I am not perfect','But you choose to stay no matter what my ugali is','Kahit alam ko nasasaktan kita 🥲']
-list3 = ['Sorry ha, I will always make bawi nalang','Sorry sa pag kukulang ko 🥲','By spending the rest of my life with you 😊😍','Kahit maging mahirap okay lang kase','Masaya ako pag nandiyan ka sa aking tabi 😎','You always make me happy kahit by simple things','Kaya I am always thanful sayo 😎']
+list3 = ['Sorry ha, I will always make bawi nalang','Sorry sa pag kukulang ko 🥲','By spending the rest of my life with you 😊😍','Kahit maging mahirap okay lang kase','Masaya ako pag nandiyan ka sa aking tabi 😎','You always make me happy kahit by simple things','Kaya I am always thankful sayo 😎']
 list3a = ['THANK YOU 😄']
 list4 = ['Mahaba pa ang tatahakin natin mahal','We still have our lifetime to spend together','Just hold my hand, stand by my side please','I am your partner, In happiness and sadness','I know nagiging makulit ako just to ask you what you feels 🥲','Kahit alam kong mali yun kase gusto ko malaman more about you','I wanna know para mas maintindihan kita lalo','Para di tayo mag away ng madalas','I wanna stay long for you','If you dont have a reason to live isipin mo ko 🥲','Am i not enough reason to you? 🥲','Well It hurts me a lot lalo pag na pa overthink ako 🥲','Myself telling me na i let go ka and do what you want 🥲','kase feeling ko I am just being to selfish and hurting you more 🥲','Sorry if nasasaktan ka lalo dahil sakin pero gusto talaga kita magstay 😊😍','So I can try to take all your pain and you can live happily 😊😍']
 list4a = ['WHY ? 🥲🥲']
@@ -207,5 +207,5 @@ async function playMessages4a(){
 	},timing*3)
 	await setTimeout(function(){
 		modalSwitch(true,true,'WANT TO ANSWER MY QUESTION?');
-	},timing*6)
+	},timing*4)
 }
